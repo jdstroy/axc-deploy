@@ -19,7 +19,7 @@
     <jar href="commons-io-1.4.jar"/>
     <jar href="private-smackx-3.2.2-private.jar"/>
     <jar href="private-smack-3.2.2-private.jar"/>
-    <jar href="commons-cli-1.1.jar"/>
+    <jar href="jewelcli-0.8.6.jar"/>
 
      $extensions
   </resources>
