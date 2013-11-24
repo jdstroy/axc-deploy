@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp
+    spec="1.0+"
+    codebase="http://klaxon.aa.am/AnonymousXmppClient/"
+    href="launch.jnlp">
+  <information>
+    <title>AnonymousXmppClient</title>
+    <vendor>John Stroy</vendor>
+    <homepage href="http://klaxon.aa.am/"/>
+    <offline-allowed/>
+  </information>
+  <security>
+     <all-permissions/>
+  </security>
+  <resources>
+    <j2se version="1.5+"/>
+         
+    <jar href="AnonymousXmppClient-1.0-SNAPSHOT.jar" main="true"/>
+    <jar href="commons-io-1.4.jar"/>
+    <jar href="private-smackx-3.2.2-private.jar"/>
+    <jar href="private-smack-3.2.2-private.jar"/>
+    <jar href="commons-cli-1.1.jar"/>
+
+     $extensions
+  </resources>
+  <application-desc main-class="org.yi.jdstroy.anonymousxmppclient.App"/>
+</jnlp>
+
