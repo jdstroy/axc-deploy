@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jnlp
     spec="1.0+"
-    codebase="http://klaxon.aa.am/AnonymousXmppClient/"
+    codebase="https://github.com/jdstroy/axc-deploy/raw/master/AnonymousXmppClient/"
     href="launch.jnlp">
   <information>
     <title>AnonymousXmppClient</title>
