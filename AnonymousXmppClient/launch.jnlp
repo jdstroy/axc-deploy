@@ -21,7 +21,6 @@
     <jar href="private-smack-3.2.2-private.jar"/>
     <jar href="jewelcli-0.8.6.jar"/>
 
-     $extensions
   </resources>
   <application-desc main-class="org.yi.jdstroy.anonymousxmppclient.App"/>
 </jnlp>
